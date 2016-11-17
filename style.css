@@ -1,0 +1,76 @@
+.move {
+    background: url(media/deee2.png) center / cover;
+}
+
+.hc {
+  background: url(media/hc%20done.png) center / cover;
+}
+
+
+.hotp {
+  background: url(media/hotp%20done.png) center / cover;
+}
+
+.pta {
+  background: url(media/PTA%20final.png) center / cover;
+}
+
+
+.drought {
+  background: url(media/Drought%20Final.png) center / cover;
+}
+
+
+
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+
+.spacercell {
+    height: 20px;
+}
+
+.biggerspacercell {
+    height: 100px;
+}
+
+
+
+.stylefiles07 {
+  background-image: url(media/sm.png);
+  height: 200px;
+}
+
+.bact {
+    background: url(media/bacteria.png) center / cover;
+    height: 200px;
+}
+
+.steph {
+    background: url(media/steph.png) center / cover;
+    height: 200px;
+}
+
+.pl {
+    background: url(media/personallogowhite.png) center /cover ;
+    height: 190px;
+}
+
+.sl {
+    background: url(media/stephwhite.png) center /cover;
+    height: 190px;
+}
+
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mdl-layout__tab-bar {
+    
+    color: white;
+}
